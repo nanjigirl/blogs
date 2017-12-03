@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>http://github.com/2017/12/03/hexo-weibo/</loc>
+        <lastmod>2017-12-03T11:27:04.090Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://github.com/2017/03/18/hexo-theme-beantech/</loc>
         <lastmod>2017-12-03T09:22:30.293Z</lastmod>
         <changefreq>weekly</changefreq>
